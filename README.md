@@ -31,16 +31,12 @@ Thinks to consider:
 - Is one run in each setting sufficient?
 Deliverables: Your submission should contain the following items:
 1. PDF file containing:
-
-(a) Graphs presenting the results of your experiments.
-
-(b) Short (≤1 page) discussion on the implications of your results.
+       * Graphs presenting the results of your experiments.
+       * Short (≤1 page) discussion on the implications of your results.
 
 2. Compressed folder containing:
-
-(a) Code which can reproduce your results.
-
-(b) A README file detailing how to run your code and reproduce your results.
+       * Code which can reproduce your results.
+       * A README file detailing how to run your code and reproduce your results.
 
 
 # For more information, read CS401_Project_3.pdf.
